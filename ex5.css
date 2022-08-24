@@ -1,0 +1,19 @@
+.primeiro {
+    color: red;
+    background-color: lightgray;
+    font-family: sans-serif;
+    font-size: 11px;
+}
+.segundo {
+    color: navy;
+    background-color: lightblue;
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.terceiro {
+    color: darkgreen;
+    background-color: lightyellow;
+    font-family: sans-serif;
+    font-size: 11px;
+}
